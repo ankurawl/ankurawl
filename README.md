@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-
-# Ankur Aggarwal
-
-I am a strategic product leader with over fifteen years of experience building zero to one products and scaling businesses at Meta and Amazon. My career started in software development, and I bring that technical foundation to my product roles, bridging the gap between engineering, design, and business strategy. More details on my [Personal Website](https://www.ankur-aggarwal.com)
+My name is Ankur Aggarwal. I am a strategic product leader with over fifteen years of experience building zero to one products and scaling businesses at Meta and Amazon. My career started in software development, and I bring that technical foundation to my product roles, bridging the gap between engineering, design, and business strategy. More details on my [Personal Website](https://www.ankur-aggarwal.com).
 
 ## Focus Areas
 
